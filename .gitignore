@@ -1,0 +1,102 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.userprefs
+
+# NCrunch
+*.ncrunch*
+nCrunchTemp/
+*_ncrunch_*
+.*crunch*.local.xml
+
+# Rider
+.idea/
+*.sln.iml
+
+# Code Coverage
+*.coverage
+*.coveragexml
+_coverage/
+coverage*.json
+*.codecov
+
+# Backup & Report Files
+*.bak
+*.log
+*.report
+
+# StyleCop
+StyleCopCache.*
+
+# File-based packages
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.vsix
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+
+# MSBuild Binary and Cache Files
+msbuild.log
+*.cache
+*.taskrunnercache
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Visual Studio Code
+.vscode/
+
+# Secrets
+secrets.json
+
+# Local History for Visual Studio Code
+.history/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Global JetBrains cache
+.idea/
+
+# Mac specific files
+*.DS_Store
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.temp
+*.bak
